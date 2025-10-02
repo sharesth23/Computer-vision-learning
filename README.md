@@ -19,7 +19,7 @@ This repo tracks my **daily learning journey** in computer vision using **Python
 
 ---
 ## Daily Goals 
--Day1 : Loading images 
+ - Day1 : Loading images 
 ---
 
 
