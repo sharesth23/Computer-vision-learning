@@ -18,6 +18,10 @@ This repo tracks my **daily learning journey** in computer vision using **Python
 - Create a personal portfolio of CV projects.  
 
 ---
+## Daily Goals 
+-Day1 : Loading images 
+---
+
 
 ## 🛠️ Tech Stack
 - Python 🐍  
